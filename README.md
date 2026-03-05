@@ -29,6 +29,10 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - Basic Python for GIS (Jupyter Notebooks)
 - Data Management & Cleaning
 
+## QGIS Projects
+<img width="3507" height="2480" alt="Earthquakes" src="https://github.com/user-attachments/assets/4f958503-56b1-4acc-9bae-5101d769e775" />
+A simple map of Earthquake data (2000 - 2020) to highlight and demonstrate basic workflow of importing data layers, applying symbology, adding labels, and designing layouts for maps.
+
 ## QGIS Internship Work
 
 **Organization:** Kartoza  
@@ -101,18 +105,5 @@ I am actively seeking internship or junior-level opportunities where I can learn
 **Platform:** ArcGIS Pro (Esri Academy Certificate + personal exercises)  
 **Focus:** Personal learning, academic exercises, creative projects
 
-### Projects
-
-### 1. Arc Story Maps
-- **Description:** This StoryMap visualizes fire danger levels across provinces, providing an interactive view of spatial risk patterns. The project demonstrates how geospatial analysis and mapping can support environmental management, disaster preparedness, and decision-making by clearly communicating areas of higher fire risk.
-- **Tools Used:** ArcGis Story Map
-[View StoryMap Details](https://storymaps.arcgis.com/stories/6129bb42567b4481947bc2596a3ce72c)
-
-
-### 2. Arcgis Online Maps
-- **Description:** This  map displays fire danger levels across South Africa’s nine provinces, combined with real-time satellite-detected fire hotspots using Fire Radiative Power (FRP) data from MODIS. Provinces are color-coded by fire risk level, while hotspot points are sized and colored based on fire intensity, providing an integrated view of fire risk and active fires for improved monitoring and decision-making.
-- **Tools Used:** ArcGis Online
-- **Image:**
-<img src="https://github.com/user-attachments/assets/15d5eca5-9959-4b56-b41e-880478864c89" alt="Fire Danger per Province" width="600" />
 
 
