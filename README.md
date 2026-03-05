@@ -27,8 +27,13 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - Data Management & Cleaning
 
 ## QGIS Projects
+**Earthquake Data**
 <img width="3507" height="2480" alt="Earthquakes" src="https://github.com/user-attachments/assets/4f958503-56b1-4acc-9bae-5101d769e775" />
 A simple map of Earthquake data (2000 - 2020) to highlight and demonstrate basic workflow of importing data layers, applying symbology, adding labels, and designing layouts for maps.
+
+**New York Population Density**
+<img width="2480" height="3507" alt="Population Density" src="https://github.com/user-attachments/assets/9316a6cf-517a-40a7-8cd4-705f04a5b8a3" />
+A map layout that uses geographic boundaries and population count data for the City of New York and results in a population density map. This requires doing a table join and using a graduated symbology to create a choropleth map.
 
 ## QGIS Internship Work
 
