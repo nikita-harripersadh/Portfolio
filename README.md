@@ -26,7 +26,7 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - Basic Python for GIS (Jupyter Notebooks)
 - Data Management & Cleaning
 
-## Projects
+## Side Projects
 **KZN Health Facilities Interactive Dashboard**
 
 **Description:**
