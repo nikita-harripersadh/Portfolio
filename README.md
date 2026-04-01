@@ -1,4 +1,4 @@
-# GIS Portfolio 
+# Portfolio 
 ## Nikita Harripersadh 
 
 Welcome to my GIS portfolio. This portfolio demonstrates my ability to apply geospatial skills to real-world and academic projects, including cartography, spatial analysis, and geospatial coding.
