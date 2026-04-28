@@ -96,8 +96,6 @@ A map layout that uses geographic boundaries and population count data for the C
 - **Image:**
  <img width="600" alt="bob ross activity" src="https://github.com/user-attachments/assets/376c3cf3-bac4-4e44-9270-a20beedbdf31" />
 
-
-
 ### 3. Tourism Map
 - **Description:** Thematic tourism map highlighting attractions and infrastructure, designed for planning and visitor information.
 - **Tools Used:** QGIS
@@ -105,9 +103,7 @@ A map layout that uses geographic boundaries and population count data for the C
 - Design an aesthetically pleasing and informative tourism map.
 - Learn to use OSM data in QGIS for map creation.
 - **Image:**
-<img width="600" height="3507" alt="tourism map" src="https://github.com/user-attachments/assets/8dfc9d64-4b0f-4c27-a62b-6f4872cb9cc5" />
-
-
+<img width="600" alt="tourism map" src="https://github.com/user-attachments/assets/8dfc9d64-4b0f-4c27-a62b-6f4872cb9cc5" />
 
 ### 4. Python Coding Work
 - **Description:** Understand the foundations of programming.
