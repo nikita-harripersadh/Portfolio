@@ -83,7 +83,7 @@ A map layout that uses geographic boundaries and population count data for the C
 - Annotate maps with graticules, north arrows, insets, and labels.
 - Used advanced QGIS labelling features like rule-based labels, manual placement, and callouts.
 - **Image:**
-<img width="600" height="1748" alt="publication map" src="https://github.com/user-attachments/assets/69461b30-97c3-4c2a-97ae-9bbe5fbe2314" />
+<img width="600" alt="publication map" src="https://github.com/user-attachments/assets/69461b30-97c3-4c2a-97ae-9bbe5fbe2314" />
 
 
 ### 2. Bob Ross Style Map
@@ -94,7 +94,7 @@ A map layout that uses geographic boundaries and population count data for the C
 - Explore advanced QGIS styling and rendering tools to produce artistic effects.
 - Gain confidence in digitising and managing geospatial data creatively.
 - **Image:**
- <img width="600" height="2480" alt="bob ross activity" src="https://github.com/user-attachments/assets/376c3cf3-bac4-4e44-9270-a20beedbdf31" />
+ <img width="600" alt="bob ross activity" src="https://github.com/user-attachments/assets/376c3cf3-bac4-4e44-9270-a20beedbdf31" />
 
 
 
